@@ -1,0 +1,9 @@
+langchain
+evadb
+sentence-transformers
+pandas
+numpy
+openai
+tiktoken
+faiss-cpu
+python-dotenv
