@@ -1,0 +1,7 @@
+langchain
+evadb
+pandas
+numpy
+openai
+python-dotenv
+pymupdf
